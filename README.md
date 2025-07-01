@@ -67,7 +67,7 @@ This project provides a simple yet powerful web-based remote control system for 
 
 ## 📸 Screenshots / Demo
 
-*(Add GIF or image here of web UI and hardware setup if available)*
+
 
 ## 🧠 Credits
 
